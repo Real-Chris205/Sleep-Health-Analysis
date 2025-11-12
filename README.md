@@ -27,12 +27,12 @@ Using the Sleep Health and Lifestyle Dataset, I analyzed patterns and correlatio
 
 
 ## 🧠 Insights Summary
-1. People aged 51 and above enjoy longer sleep durations, possibly due to lower work-related stress.  
-2. 41% of respondents reported some form of sleep disorder, highlighting a lifestyle imbalance.  
-3. Low sleep quality scores suggest that respondents struggle with consistent rest and recovery.  
-4. Increased physical activity and stress management could significantly improve sleep health outcomes.
-5. The higher sleep disorder rate among females might be related to hormonal variations, caregiving responsibilities, or multitasking stress.
-6. Sales representatives lower sleep duration may be a result of irregular working hours, travel schedules, and sales performance pressures
+- People aged 51 and above enjoy longer sleep durations, possibly due to lower work-related stress.  
+- 41% of respondents reported some form of sleep disorder, highlighting a lifestyle imbalance.  
+- Low sleep quality scores suggest that respondents struggle with consistent rest and recovery.  
+- Increased physical activity and stress management could significantly improve sleep health outcomes.
+- The higher sleep disorder rate among females might be related to hormonal variations, caregiving responsibilities, or multitasking stress.
+- Sales representatives lower sleep duration may be a result of irregular working hours, travel schedules, and sales performance pressures
 
  
 
@@ -41,5 +41,30 @@ Below is a snapshot of the Excel dashboard built for this project:
 <a href="https://github.com/Real-Chris205/Sleep-Health-Analysis/blob/main/screenshot.png">
 
 <img width="1849" height="856" alt="screenshot" src="https://github.com/user-attachments/assets/b59e5dc3-1d21-44f8-84de-db73d4b23462" />
+
+
+## 📚 Dataset Source
+[Sleep Health and Lifestyle Dataset – Kaggle](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
+
+## Recommendation
+- Encourage better sleep hygiene: Individuals should aim for at least 7 hours of sleep daily by setting consistent bedtime routines and limiting screen time before bed.
+- Implement workplace wellness programs: Since stress levels are moderately high (5.42), organizations can introduce stress management training, breaks, or flexible work hours.
+- Targeted support for sales representatives: Employers should consider adjusting workloads or providing health education, as this group reports the lowest average sleep.
+- Promote gender-specific health awareness: Female respondents may benefit from sleep health programs tailored to hormonal and lifestyle factors.
+- Raise awareness on sleep quality: Since the highest recorded quality score is low (374/1000), campaigns on the impact of stress, caffeine, and screen use on sleep could be helpful.
+- Encourage seniors to maintain balance: While seniors sleep more, keeping routines active and social engagement is important to prevent oversleeping or inactivity.
+ 
+
+## 🚀 Next Steps
+- Rebuild this analysis using SQL for deeper analytical insights.  
+- Create a Power BI version for interactive visualization.  
+- Explore correlations between stress levels, physical activity, and sleep duration statistically.  
+
+
+
+### Author
+Christian Onwuka  
+Aspiring Data Analyst | SQL • Excel • Power BI Enthusiast
+
 
 

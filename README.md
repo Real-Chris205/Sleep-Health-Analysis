@@ -38,4 +38,5 @@ Using the Sleep Health and Lifestyle Dataset, I analyzed patterns and correlatio
 
 ## 📈 Dashboard Preview
 Below is a snapshot of the Excel dashboard built for this project:
+https://github.com/Real-Chris205/Sleep-Health-Analysis/blob/main/screenshot.png
 
